@@ -13,7 +13,7 @@ services:
 
   web:
     environment:
-      SERVERNAME: dreamfactory.local
+      SERVERNAME: http://srv-captain--dream
 #      HTTPS_HEADER: "on"
       DB_DRIVER: mysql
       DB_HOST: mysql
